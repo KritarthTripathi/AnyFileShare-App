@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632838465854",
+    "project_id": "share-lock-adc52",
+    "storage_bucket": "share-lock-adc52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632838465854:android:cc7c0a756ef72bc858a46f",
+        "android_client_info": {
+          "package_name": "com.kts.sharelock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632838465854-rj96kg4ss9mepa995o8hnr75ql46cfhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfkwSphzIYF_3g8vwNFYUQmkZKTM8dP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632838465854-rj96kg4ss9mepa995o8hnr75ql46cfhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
